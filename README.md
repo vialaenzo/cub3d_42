@@ -7,7 +7,7 @@ It renders a first‑person view of a maze described in a **`.cub`** file, using
 > The project is split into two binaries:
 >
 > - `cub3d` – the mandatory implementation.
-> - `cub3d_bonus` – an optional bonus version with extra features (e.g. more map formats, additional textures).
+> - `cub3d_bonus` – an optional bonus version with extra features.
 
 ---
 
